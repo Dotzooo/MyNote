@@ -141,6 +141,14 @@
                 "file": "1-日誌/2023-04-19.md"
               }
             }
+          },
+          {
+            "id": "dd90477a90e864c9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
