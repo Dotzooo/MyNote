@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日誌/2023-04-19.md",
+                "file": "2-React/2-1 建立環境.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,6 +55,28 @@
             }
           },
           {
+            "id": "905d008231baaf7c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b72d954661dd49cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2673e881e5eebbc",
+        "type": "tabs",
+        "children": [
+          {
             "id": "0cf3914a2a5cf4e6",
             "type": "leaf",
             "state": {
@@ -68,26 +90,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "905d008231baaf7c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
-  },
-  "right": {
-    "id": "b72d954661dd49cb",
-    "type": "split",
-    "children": [
+      },
       {
         "id": "5474da045524b8e4",
         "type": "tabs",
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日誌/2023-04-19.md",
+                "file": "2-React/2-1 建立環境.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日誌/2023-04-19.md",
+                "file": "2-React/2-1 建立環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日誌/2023-04-19.md"
+                "file": "2-React/2-1 建立環境.md"
               }
             }
           },
@@ -170,9 +175,9 @@
   },
   "active": "39264960cae44c24",
   "lastOpenFiles": [
+    "1-日誌/2023-04-19.md",
     "2-React/2-1 建立環境.md",
     "2-React/X 坑.md",
-    "1-日誌/2023-04-19.md",
     "2-React/2-5 React Hook Form.md",
     "2-React/2-4 React Hooks.md",
     "2-React/2-2 資料驅動.md",
