@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35a13058f4d33f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-React/2-5 React Hook Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -86,7 +99,7 @@
               "type": "backlink",
               "state": {
                 "file": "1-日誌/2023-04-19.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,12 +142,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,12 +156,19 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "39264960cae44c24",
   "lastOpenFiles": [
+    "2-React/2-1 建立環境.md",
+    "2-React/X 坑.md",
     "1-日誌/2023-04-19.md",
+    "2-React/2-5 React Hook Form.md",
+    "2-React/2-4 React Hooks.md",
+    "2-React/2-2 資料驅動.md",
+    "2-React/2-3 元件基礎.md",
     "1-日誌",
     "2-React"
   ]
