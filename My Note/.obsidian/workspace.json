@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日誌/2023-04-19.md",
+                "file": "1-日誌/2023-04-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日誌/2023-04-19.md",
+                "file": "1-日誌/2023-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,16 +143,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日誌/2023-04-19.md"
+                "file": "1-日誌/2023-04-20.md"
               }
-            }
-          },
-          {
-            "id": "dd90477a90e864c9",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
             }
           }
         ],
@@ -174,12 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35a13058f4d33f48",
+  "active": "39264960cae44c24",
   "lastOpenFiles": [
+    "1-日誌/2023-04-19.md",
     "2-React/2-1 建立環境.md",
     "2-React/2-5 React Hook Form.md",
     "1-日誌/2023-04-20.md",
-    "1-日誌/2023-04-19.md",
     "2-React/X 坑.md",
     "2-React/2-4 React Hooks.md",
     "2-React/2-2 資料驅動.md",
