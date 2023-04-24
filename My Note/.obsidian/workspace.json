@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-React/2-6 React Hook - useMemo.md",
+                "file": "1-日誌/2023-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c31b0146ccbef8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-快速筆記/2023-04-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-React/2-6 React Hook - useMemo.md",
+                "file": "3-快速筆記/2023-04-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-React/2-6 React Hook - useMemo.md",
+                "file": "3-快速筆記/2023-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-React/2-6 React Hook - useMemo.md"
+                "file": "3-快速筆記/2023-04-24.md"
               }
             }
           }
@@ -166,12 +178,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "c31b0146ccbef8cc",
   "lastOpenFiles": [
-    "2-React/2-5 React Hook Form.md",
-    "2-React/2-6 React Hook - useMemo.md",
-    "2-React/2-4 React Hooks.md",
+    "3-快速筆記/未命名.md",
+    "3-快速筆記/2023-04-24.md",
     "1-日誌/2023-04-24.md",
+    "3-快速筆記",
+    "2-React/2-6 React Hook - useMemo.md",
+    "2-React/2-5 React Hook Form.md",
+    "2-React/2-4 React Hooks.md",
     "1-日誌/2023-04-20.md",
     "1-日誌/2023-04-19.md",
     "2-React/2-1 建立環境.md",
