@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-快速筆記/2023-04-27.md",
+                "file": "3-快速筆記/2023-05-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-快速筆記/2023-04-27.md",
+                "file": "3-快速筆記/2023-05-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-快速筆記/2023-04-27.md",
+                "file": "3-快速筆記/2023-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-快速筆記/2023-04-27.md"
+                "file": "3-快速筆記/2023-05-02.md"
               }
             }
           }
@@ -178,10 +178,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c31b0146ccbef8cc",
+  "active": "959bcbc826ec8ffe",
   "lastOpenFiles": [
-    "3-快速筆記/2023-04-25.md",
     "3-快速筆記/2023-04-27.md",
+    "3-快速筆記/2023-05-02.md",
+    "3-快速筆記/2023-04-25.md",
     "3-快速筆記/2023-04-24.md",
     "3-快速筆記/未命名.md",
     "1-日誌/2023-04-24.md",
