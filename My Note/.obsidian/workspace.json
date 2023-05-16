@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-快速筆記/2023-05-03.md",
+                "file": "3-快速筆記/2023-05-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,6 +47,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "332b4d5417306068",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -91,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-快速筆記/2023-05-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-快速筆記/2023-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3-快速筆記/2023-05-16.md"
+              }
             }
           }
         ],
@@ -149,11 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "da660d5760c30344",
   "lastOpenFiles": [
     "3-快速筆記/2023-05-09.md",
-    "2-React/2-1 建立環境.md",
+    "3-快速筆記/2023-05-16.md",
     "3-快速筆記/2023-05-03.md",
+    "2-React/2-1 建立環境.md",
     "1-日誌/2023-04-24.md",
     "2-React/2-5 React Hook Form.md",
     "2-React/2-2 資料驅動.md",
