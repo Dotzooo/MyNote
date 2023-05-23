@@ -86,8 +86,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4fe4cf58e32c5e0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5474da045524b8e4",
