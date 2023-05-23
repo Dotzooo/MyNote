@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md",
+                "file": "Docker/指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md",
+                "file": "Docker/指令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md",
+                "file": "Docker/指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md"
+                "file": "Docker/指令.md"
               }
             }
           }
@@ -161,10 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "da660d5760c30344",
   "lastOpenFiles": [
-    "3-快速筆記/2023-05-16.md",
     "3-快速筆記/2023-05-17.md",
+    "Docker/指令.md",
+    "Docker",
+    "3-快速筆記/2023-05-16.md",
     "3-快速筆記/2023-05-09.md",
     "3-快速筆記/2023-05-03.md",
     "2-React/2-1 建立環境.md",
