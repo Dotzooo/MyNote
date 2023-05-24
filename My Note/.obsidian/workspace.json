@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ba41dcc77b97244",
+        "id": "c2bf4036493fbbb2",
         "type": "tabs",
         "children": [
           {
-            "id": "da660d5760c30344",
+            "id": "69719b6df264c48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-24.md",
+                "file": "TEST 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#替正在運作的容器添加新的虛擬網路",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-24.md",
+                "file": "TEST 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-24.md",
+                "file": "TEST 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-24.md"
+                "file": "TEST 1.md"
               }
             }
           }
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da660d5760c30344",
+  "active": "69719b6df264c48e",
   "lastOpenFiles": [
-    "TEST.md",
     "2023-05-24.md",
+    "TEST 1.md",
+    "TEST.md",
     "Docker/指令.md",
     "3-快速筆記/2023-05-17.md",
     "Docker",
