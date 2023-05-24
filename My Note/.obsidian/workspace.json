@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/指令.md",
+                "file": "2023-05-24.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/指令.md",
+                "file": "2023-05-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/指令.md",
+                "file": "2023-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/指令.md"
+                "file": "2023-05-24.md"
               }
             }
           }
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +172,10 @@
   },
   "active": "da660d5760c30344",
   "lastOpenFiles": [
-    "3-快速筆記/2023-05-17.md",
+    "TEST.md",
+    "2023-05-24.md",
     "Docker/指令.md",
+    "3-快速筆記/2023-05-17.md",
     "Docker",
     "3-快速筆記/2023-05-16.md",
     "3-快速筆記/2023-05-09.md",

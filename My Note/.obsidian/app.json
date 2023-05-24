@@ -1,3 +1,5 @@
 {
-  "trashOption": "local"
+  "trashOption": "local",
+  "livePreview": false,
+  "legacyEditor": false
 }
