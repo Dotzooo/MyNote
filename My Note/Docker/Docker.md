@@ -1,0 +1,25 @@
+
+## 查看目前各個 Docker 物件所佔據容量
+```
+$ docker system df
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          3         3         555.5MB   74.34MB (13%)
+Containers      3         0         1.135kB   1.135kB (100%)
+Local Volumes   1         1         39.85MB   0B (0%)
+Build Cache     0         0         0B        0B
+```
+
+## 清理不需要的容器
+```
+$ docker container rm --force $(docker container ls -aq)
+
+```
+
+## 清理不需要的映像檔
+```
+$ docker image prune
+
+
+$ docker image prune --all 
+// 將會清除所有沒有運行成容器的映像檔，較為暴力的方式
+```

@@ -60,7 +60,7 @@ FROM alpine:3.16.2 AS builder // # 建置階段
 RUN echo 'Builder' > /example.txt // # 建置階段 
 
 // 建置階段：
-// 利用了 alpine:3.16.2 這個映像檔作為基礎，並且簡單的執行了一個 RUN 的指令，
+// 以 alpine:3.16.2 這個映像檔作為基礎，並且簡單的執行了一個 RUN 的指令，
 // 作用是把 Builder 這段文字寫入 example.txt 這個檔案，就結束任務了。
 
 --------------------------------------------
@@ -71,7 +71,15 @@ RUN echo 'Tester' >> /example.txt # 測試階段
 
 // 測試階段：
 // Dockerfile 讀到了第二個 FROM，所以當作為一個新的開始
-// 以
+// 以 alpine:3.16.2 為基礎
+// 但 這邊使用了 COPY --from=builder ....
+// Docker 理解為 
+// 要從 builder 這個階段複製一份 example.txt 到現在這個階段內並命名為 example.txt
+// Docker 會去找 builder 這個階段，但其實我們已經把第一階段命名好了，
+// 可以看到第一個 FROM 的後面 用了 AS 這個語法，將第一個階段命名為 builder
+
+// 接著再把 Tester 這段文字寫入 example.txt 檔案中，
+// 也就遇到第三個 FROM 並結束了第二個階段
 
 
 --------------------------------------------
@@ -79,4 +87,14 @@ RUN echo 'Tester' >> /example.txt # 測試階段
 FROM alpine:3.16.2 # 最終階段 
 COPY --from=tester /example.txt /example.txt 
 # 最終階段CMD [ "cat", "/example.txt" ] # 最終階段
+
+// 最終階段:
+// 使用了 COPY --from=test ...
+// 把 test 這個階段的 example.txt 複製過來最終階段
+// 並且命名為 example.txt
+// 處理的事情和 第二(測試)階段一樣
+// 只是最後使用 CMD 並去讀取 example.txt 的內容
+
+
+--------------------------------------------
 ```
