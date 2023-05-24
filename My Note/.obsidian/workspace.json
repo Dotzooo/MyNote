@@ -15,7 +15,7 @@
               "state": {
                 "file": "Docker/指令.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Docker/Dockerfile.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
