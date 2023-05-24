@@ -18,6 +18,7 @@ root@338a952455b4:/# echo $NGINX_VERSION
 root@338a952455b4:/#
 ```
 
+
 ## RUN
 
 終端機所執行的指令，以下舉例
@@ -71,8 +72,11 @@ COPY example.txt happy.txt
 
 
 
-
 ## EXPOSE
+
+運行成容器後預設打開的 port 
 
 
 ## CMD
+
+映像檔運行成為容器時所執行的第一個指令，也關係到容器是否進入停止狀態的指令
