@@ -38,3 +38,45 @@ $docker image build --tag adam:production --file Dockerfile.production .
 	- 指令執行的順序不會影響到容器的啟動
 	- 所有的映像檔都是透過另一個映像檔作為基底
 	- 擺放位置： 放在越上面的指令 變動機率越低
+		- 變動機率最低的指令是 CMD 及 EXPOSE
+			- FROM:
+			- EXPOSE: 在設定好後就很少會進行變動
+			- CMD: 啟動一個應用程式的初始指令基本上都會相同，即便更換了版本，
+						  或是檔案做了什麼異動，啟動的方式都還是大同小異
+			- ENV: 變動頻率得視專案而定，位置順序 看異動情況取捨
+		- 
+			- WORKDIR: 可能需要新的套件
+			- RUN apk...: 安裝套件
+			- COPY: 
+
+## 多階段建置 Docker Image
+
+	- $ COPY --form  從另一個映像檔複製檔案到現階段的映像檔
+
+```js
+// Dockerfile 範例 
+
+FROM alpine:3.16.2 AS builder // # 建置階段 
+RUN echo 'Builder' > /example.txt // # 建置階段 
+
+// 建置階段：
+// 利用了 alpine:3.16.2 這個映像檔作為基礎，並且簡單的執行了一個 RUN 的指令，
+// 作用是把 Builder 這段文字寫入 example.txt 這個檔案，就結束任務了。
+
+--------------------------------------------
+
+FROM alpine:3.16.2 AS tester # 測試階段 
+COPY --from=builder /example.txt /example.txt # 測試階段 
+RUN echo 'Tester' >> /example.txt # 測試階段 
+
+// 測試階段：
+// Dockerfile 讀到了第二個 FROM，所以當作為一個新的開始
+// 以
+
+
+--------------------------------------------
+
+FROM alpine:3.16.2 # 最終階段 
+COPY --from=tester /example.txt /example.txt 
+# 最終階段CMD [ "cat", "/example.txt" ] # 最終階段
+```
