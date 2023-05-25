@@ -13,31 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/基本概念/鏡像( Images ).md",
-                "mode": "source",
+                "file": "Obsidian Plugin/Callout 模組.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7a92aaf8a3d771d0",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8a13d6cd97098cf2",
+            "id": "914c7d26a938ce14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/基本概念/容器 ( Container ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c404b9bc9bd37249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/基本概念/倉庫 ( Repository ).md",
+                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244.5110321044922
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -103,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dockerfile",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/基本概念/鏡像( Images ).md",
+                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/基本概念/鏡像( Images ).md",
+                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/基本概念/鏡像( Images ).md"
+                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md"
               }
             }
           }
@@ -195,17 +189,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fa14cb7b250ca08",
+  "active": "914c7d26a938ce14",
   "lastOpenFiles": [
-    "Docker/基本概念/倉庫 ( Repository ).md",
-    "Docker/基本概念/鏡像( Images ).md",
-    "Docker/基本概念/容器 ( Container ).md",
-    "Docker/基本概念",
+    "Obsidian Plugin/Callout 模組.md",
+    "Obsidian Plugin",
+    "Docker/1.基本概念/1-1 鏡像( Images ).md",
+    "Docker/1.基本概念/1-2 容器 ( Container ).md",
+    "1-日誌/2023-05-25.md",
+    "Docker/1.基本概念/1-3 倉庫 ( Repository ).md",
+    "Docker/Docker.md",
+    "Docker/1.基本概念",
     "Docker/鏡像構建.md",
     "Docker/Dockerfile.md",
     "Nginx/nginx.md",
     "Docker/Docker Volume.md",
-    "Docker/Docker.md",
     "Docker/指令.md",
     "Docker/Dockerignore.md",
     "Nginx",
@@ -224,8 +221,6 @@
     "2-React/2-2 資料驅動.md",
     "2-React/2-3 元件基礎.md",
     "3-快速筆記/2023-05-02.md",
-    "3-快速筆記/2023-04-27.md",
-    "3-快速筆記/2023-04-25.md",
     "3-快速筆記",
     "1-日誌",
     "2-React"
