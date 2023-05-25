@@ -34,8 +34,30 @@ CMD ["nginx", "-c", "/home/nginx/configs/nginx.conf", "-g", "daemon off;"]
 EXPOSE 3000
 ```
 
+### 配置 [[nginx]] 文件
 	/configs/nginx.conf
+```
+user root;
+worker_processes auto;
 
+events {
+	worker_connections 1024;
+}
+
+http {
+	include      /etc/nginx/mime.types;
+	default_type application/octet-stream;
+	keepalive_timeout 65;
+	server {
+		listen 3000;
+		server_name localhost;
+		location / {
+			root /dist;
+			index index.html
+		}
+	}
+}
+```
 
 ## ENV
 
