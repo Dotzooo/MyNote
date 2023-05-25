@@ -6,6 +6,7 @@
       {
         "id": "c2bf4036493fbbb2",
         "type": "tabs",
+        "dimension": 22.532894736842106,
         "children": [
           {
             "id": "9fa14cb7b250ca08",
@@ -24,6 +25,7 @@
       {
         "id": "7a92aaf8a3d771d0",
         "type": "tabs",
+        "dimension": 77.4671052631579,
         "children": [
           {
             "id": "914c7d26a938ce14",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md",
+                "file": "Docker/1.基本概念/1-3 倉庫 ( Repository ).md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md",
+                "file": "Docker/1.基本概念/1-3 倉庫 ( Repository ).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md",
+                "file": "Docker/1.基本概念/1-3 倉庫 ( Repository ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/1.基本概念/1-1 鏡像( Images ).md"
+                "file": "Docker/1.基本概念/1-3 倉庫 ( Repository ).md"
               }
             }
           }
@@ -189,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "914c7d26a938ce14",
+  "active": "959bcbc826ec8ffe",
   "lastOpenFiles": [
-    "Obsidian Plugin/Callout 模組.md",
+    "Docker/1.基本概念/1-2 容器 ( Container ).md",
+    "Docker/1.基本概念/1-3 倉庫 ( Repository ).md",
     "Docker/1.基本概念/1-1 鏡像( Images ).md",
+    "Docker/鏡像構建.md",
+    "Obsidian Plugin/Callout 模組.md",
     "Docker/Docker.md",
     "Obsidian Plugin",
-    "Docker/1.基本概念/1-2 容器 ( Container ).md",
     "1-日誌/2023-05-25.md",
-    "Docker/1.基本概念/1-3 倉庫 ( Repository ).md",
     "Docker/1.基本概念",
-    "Docker/鏡像構建.md",
     "Docker/Dockerfile.md",
     "Nginx/nginx.md",
     "Docker/Docker Volume.md",
