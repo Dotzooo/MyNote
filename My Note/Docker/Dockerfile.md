@@ -10,11 +10,32 @@
 
 ## 保留字
 
-	-FROM : 指定基礎鏡像，每一個映像檔都必須以其他的映像檔作為基底
+	- ENV：設定運行成容器後的環境變數
+	- FROM : 指定基礎鏡像，每一個映像檔都必須以其他的映像檔作為基底
+	- RUN : 容器構建時需要運行的指令
+	- EXPOSE : 當前容器對外曝露的端口號
+	- WORKDIR : 指定在創建容器後，終端預設登陸進來的工作目錄
+	- COPY：從本機的檔案系統中複製想要的資料到容器內的檔案系統
+	- ADD：將主機目錄下的文件拷貝進鏡像，ADD 命令會自動處理 URL 和解壓 tar 壓縮包
+	- CMD：指定一個容器啟動時要運行的命令，參數為陣列格式 CMD['可執行文件','參數1','參數2',...]
 
+## 基礎配置
 
- 
-	
+	/configs/nginx.conf
+```
+# 指定基礎鏡像為最新版 nginx
+FROM nginx:lastest
+# 將項目下的 ./configs 文件夾放置在鏡像中的 /home/nginx/configs 文件夾
+ADD ./configs /home/nginx/configs
+ADD ./dist /dist
+# 運行 nginx
+CMD ["nginx", "-c", "/home/nginx/configs/nginx.conf", "-g", "daemon off;"]
+# 鏡像對外暴露 3000 port
+EXPOSE 3000
+```
+
+	/configs/nginx.conf
+
 
 ## ENV
 
@@ -67,9 +88,7 @@ RUN apk add --update --no-cache curl
 把指令濃縮到一個映像層之中，進而降低映像檔的映像層數。
 
 
-## WORKDIR
 
-建立一個工作目錄，並且以這個工作目錄作為預設的工作目錄
 
 
 ## COPY
@@ -82,11 +101,4 @@ COPY example.txt happy.txt
 
 
 
-## EXPOSE
 
-運行成容器後預設打開的 port 
-
-
-## CMD
-
-映像檔運行成為容器時所執行的第一個指令，也關係到容器是否進入停止狀態的指令
