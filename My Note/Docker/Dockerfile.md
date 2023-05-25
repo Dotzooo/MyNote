@@ -120,6 +120,3 @@ COPY example.txt happy.txt
 # 左邊為本機的檔案名稱； 右邊為運行成容器後的檔案名稱
 ```
 
-
-
-
