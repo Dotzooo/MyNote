@@ -1,5 +1,5 @@
 
->[!Iinfo]
+>[!info]
 > 這裡是 callout 模組 
 >支持**markdown** 和 [[Internal link|wikilinks]]
 >
