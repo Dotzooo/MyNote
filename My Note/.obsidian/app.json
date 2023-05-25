@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "livePreview": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showInlineTitle": false
 }
