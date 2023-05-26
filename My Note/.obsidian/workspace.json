@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3.容器(Container)/3-6 刪除.md",
+                "file": "Docker/3.容器(Container)/3-5 匯出與匯入.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5110321044922,
-    "collapsed": true
+    "width": 244.5110321044922
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3.容器(Container)/3-6 刪除.md",
+                "file": "Docker/3.容器(Container)/3-5 匯出與匯入.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3.容器(Container)/3-6 刪除.md",
+                "file": "Docker/3.容器(Container)/3-5 匯出與匯入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3.容器(Container)/3-6 刪除.md"
+                "file": "Docker/3.容器(Container)/3-5 匯出與匯入.md"
               }
             }
           },
@@ -212,10 +211,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "77c5cf7ce3e3ca53",
+  "active": "959bcbc826ec8ffe",
   "lastOpenFiles": [
-    "Obsidian Plugin/Callout 模組.md",
     "Docker/3.容器(Container)/3-6 刪除.md",
+    "Obsidian Plugin/Callout 模組.md",
     "Docker/Docker.md",
     "未命名.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
