@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3.容器(Container)/3-2 守護態執行.md",
+                "file": "Docker/3.容器(Container)/3-4 進入容器.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3.容器(Container)/3-2 守護態執行.md",
+                "file": "Docker/3.容器(Container)/3-4 進入容器.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3.容器(Container)/3-2 守護態執行.md",
+                "file": "Docker/3.容器(Container)/3-4 進入容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3.容器(Container)/3-2 守護態執行.md"
+                "file": "Docker/3.容器(Container)/3-4 進入容器.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -198,12 +199,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "77c5cf7ce3e3ca53",
+  "active": "959bcbc826ec8ffe",
   "lastOpenFiles": [
-    "Docker/3.容器(Container)/3-1 啟動.md",
-    "Obsidian Plugin/Callout 模組.md",
-    "Docker/3.容器(Container)/3-2 守護態執行.md",
+    "Docker/3.容器(Container)/3-3 終止.md",
+    "Docker/指令.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
+    "Docker/Dockerignore.md",
+    "Docker/3.容器(Container)/3-1 啟動.md",
+    "Docker/3.容器(Container)/3-2 守護態執行.md",
+    "Obsidian Plugin/Callout 模組.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/Docker.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
@@ -215,11 +219,9 @@
     "Obsidian Plugin/Breadcrumb.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "1-日誌/2023-05-26.md",
-    "Docker/指令.md",
     "Docker/3.容器(Container)/3-6 刪除.md",
     "Docker/3.容器(Container)/3-5 匯出與匯入.md",
     "Docker/3.容器(Container)/3-4 進入容器.md",
-    "Docker/3.容器(Container)/3-3 終止.md",
     "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-5 移除鏡像(映像檔).md",
@@ -229,7 +231,6 @@
     "Docker/4.倉庫（Repository）",
     "Docker/3.容器(Container)",
     "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔) 1 1 1 1.md",
-    "Docker/鏡像構建.md",
     "Docker/2.鏡像 (映像檔)",
     "Obsidian Plugin",
     "Docker/1.基本概念",
