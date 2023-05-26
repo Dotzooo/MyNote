@@ -6,7 +6,6 @@
       {
         "id": "c2bf4036493fbbb2",
         "type": "tabs",
-        "dimension": 21.62162162162162,
         "children": [
           {
             "id": "9fa14cb7b250ca08",
@@ -14,45 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugin/Callout 模組.md",
+                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "7a92aaf8a3d771d0",
-        "type": "tabs",
-        "dimension": 78.37837837837837,
-        "children": [
-          {
-            "id": "a09c29e1d441f8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Plugin/Breadcrumb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dfdac198c7cb184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Plugin/Dataview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,9 +78,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugin/Dataview.md",
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -128,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugin/Dataview.md",
+                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugin/Dataview.md"
+                "file": "Docker/3.容器(Container)/3-0 容器命令.md"
               }
             }
           },
@@ -212,17 +179,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0dfdac198c7cb184",
+  "active": "7313953777ca9c87",
   "lastOpenFiles": [
-    "Obsidian Plugin/Breadcrumb.md",
-    "Obsidian Plugin/Dataview.md",
-    "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/3.容器(Container)/3-1 啟動.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
+    "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
+    "Obsidian Plugin/Callout 模組.md",
+    "Obsidian Plugin/Dataview.md",
+    "Obsidian Plugin/Breadcrumb.md",
+    "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "1-日誌/2023-05-26.md",
     "Docker/指令.md",
-    "Obsidian Plugin/Callout 模組.md",
-    "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/3.容器(Container)/3-6 刪除.md",
     "Docker/3.容器(Container)/3-5 匯出與匯入.md",
     "Docker/3.容器(Container)/3-4 進入容器.md",
