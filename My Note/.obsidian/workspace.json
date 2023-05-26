@@ -8,7 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b00bf7b6993bfc13",
+            "id": "b00c9f613dff700d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Plugin/Callout 模組.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f996402392f866a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c5cf7ce3e3ca53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5110321044922
+    "width": 244.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -165,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,19 +199,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b00bf7b6993bfc13",
+  "active": "77c5cf7ce3e3ca53",
   "lastOpenFiles": [
+    "Obsidian Plugin/Callout 模組.md",
+    "Docker/3.容器(Container)/3-1 啟動.md",
     "Docker/3.容器(Container)/3-2 守護態執行.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/Docker.md",
-    "Docker/3.容器(Container)/3-1 啟動.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
     "Docker/未命名.md",
     "未命名.md",
     "Obsidian Plugin/Template/YAML_文章.md",
     "Obsidian Plugin/Template",
-    "Obsidian Plugin/Callout 模組.md",
     "Obsidian Plugin/Dataview.md",
     "Obsidian Plugin/Breadcrumb.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
