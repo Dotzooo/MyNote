@@ -31,7 +31,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3.容器(Container)/3-4 進入容器.md",
+                "file": "Docker/3.容器(Container)/3-6 刪除.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909334c2539ee6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5110321044922
+    "width": 244.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3.容器(Container)/3-4 進入容器.md",
+                "file": "Docker/3.容器(Container)/3-6 刪除.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3.容器(Container)/3-4 進入容器.md",
+                "file": "Docker/3.容器(Container)/3-6 刪除.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3.容器(Container)/3-4 進入容器.md"
+                "file": "Docker/3.容器(Container)/3-6 刪除.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stop",
+                "query": "export",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,29 +212,29 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "77c5cf7ce3e3ca53",
   "lastOpenFiles": [
-    "Docker/3.容器(Container)/3-3 終止.md",
+    "Obsidian Plugin/Callout 模組.md",
+    "Docker/3.容器(Container)/3-6 刪除.md",
+    "Docker/Docker.md",
+    "未命名.md",
+    "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
+    "Docker/3.容器(Container)/3-5 匯出與匯入.md",
+    "Docker/3.容器(Container)/3-4 進入容器.md",
     "Docker/指令.md",
+    "Docker/3.容器(Container)/3-3 終止.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/Dockerignore.md",
     "Docker/3.容器(Container)/3-1 啟動.md",
     "Docker/3.容器(Container)/3-2 守護態執行.md",
-    "Obsidian Plugin/Callout 模組.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
-    "Docker/Docker.md",
-    "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
     "Docker/未命名.md",
-    "未命名.md",
     "Obsidian Plugin/Template/YAML_文章.md",
     "Obsidian Plugin/Template",
     "Obsidian Plugin/Dataview.md",
     "Obsidian Plugin/Breadcrumb.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "1-日誌/2023-05-26.md",
-    "Docker/3.容器(Container)/3-6 刪除.md",
-    "Docker/3.容器(Container)/3-5 匯出與匯入.md",
-    "Docker/3.容器(Container)/3-4 進入容器.md",
     "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-5 移除鏡像(映像檔).md",
