@@ -23,60 +23,35 @@
         ]
       },
       {
-        "id": "fb48489ea4f0a73d",
-        "type": "split",
+        "id": "7a92aaf8a3d771d0",
+        "type": "tabs",
         "dimension": 78.37837837837837,
         "children": [
           {
-            "id": "7a92aaf8a3d771d0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "01ced29852d7cdca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Docker/3.容器(Container)/3-0 容器命令.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a09c29e1d441f8e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "01ced29852d7cdca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-日誌/2023-05-26.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "a6d289ee09a0193f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "00baf1d8aef6d285",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Docker/指令.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "a09c29e1d441f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Plugin/未命名.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,14 +111,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
+                "file": "1-日誌/2023-05-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
+                "file": "1-日誌/2023-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +151,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md"
+                "file": "1-日誌/2023-05-26.md"
               }
+            }
+          },
+          {
+            "id": "4fe4cf58e32c5e0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ffa90c2a702f9d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "333c77e2b540bd49",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
             }
           },
           {
@@ -190,25 +189,16 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "4fe4cf58e32c5e0c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,16 +208,19 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "01ced29852d7cdca",
   "lastOpenFiles": [
+    "Docker/3.容器(Container)/3-0 容器命令.md",
+    "1-日誌/2023-05-26.md",
+    "Obsidian Plugin/未命名.md",
     "Docker/3.容器(Container)/3-1 啟動.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/指令.md",
     "Obsidian Plugin/Callout 模組.md",
-    "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/3.容器(Container)/3-6 刪除.md",
     "Docker/3.容器(Container)/3-5 匯出與匯入.md",
@@ -250,7 +243,6 @@
     "Docker/1.基本概念/1-2 容器 ( Container ).md",
     "Docker/未命名.md",
     "Docker/Dockerignore.md",
-    "Docker/Dockerfile.md",
     "Docker/2.鏡像 (映像檔)",
     "Obsidian Plugin",
     "Docker/1.基本概念",

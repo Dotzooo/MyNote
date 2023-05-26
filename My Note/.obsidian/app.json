@@ -2,5 +2,6 @@
   "trashOption": "local",
   "livePreview": true,
   "legacyEditor": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileLocation": "folder"
 }

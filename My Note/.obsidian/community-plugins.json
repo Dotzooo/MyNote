@@ -5,5 +5,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-embedded-code-title",
   "obsidian-admonition",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "breadcrumbs",
+  "dataview"
 ]
