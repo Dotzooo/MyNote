@@ -28,30 +28,31 @@
         "dimension": 78.37837837837837,
         "children": [
           {
-            "id": "01ced29852d7cdca",
+            "id": "a09c29e1d441f8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日誌/2023-05-26.md",
+                "file": "Obsidian Plugin/Breadcrumb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a09c29e1d441f8e9",
+            "id": "0dfdac198c7cb184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugin/未命名.md",
+                "file": "Obsidian Plugin/Dataview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5110321044922,
-    "collapsed": true
+    "width": 244.5110321044922
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日誌/2023-05-26.md",
+                "file": "Obsidian Plugin/Dataview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日誌/2023-05-26.md",
+                "file": "Obsidian Plugin/Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日誌/2023-05-26.md"
+                "file": "Obsidian Plugin/Dataview.md"
               }
             }
           },
@@ -212,13 +212,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "01ced29852d7cdca",
+  "active": "0dfdac198c7cb184",
   "lastOpenFiles": [
+    "Obsidian Plugin/Breadcrumb.md",
+    "Obsidian Plugin/Dataview.md",
+    "Screenshot 2023-05-26 at 11.20.34 AM.png",
+    "Docker/3.容器(Container)/3-1 啟動.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "1-日誌/2023-05-26.md",
-    "Obsidian Plugin/未命名.md",
-    "Docker/3.容器(Container)/3-1 啟動.md",
-    "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/指令.md",
     "Obsidian Plugin/Callout 模組.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
@@ -242,7 +243,6 @@
     "Docker/1.基本概念/1-1 鏡像( Images ).md",
     "Docker/1.基本概念/1-2 容器 ( Container ).md",
     "Docker/未命名.md",
-    "Docker/Dockerignore.md",
     "Docker/2.鏡像 (映像檔)",
     "Obsidian Plugin",
     "Docker/1.基本概念",
