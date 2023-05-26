@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3.容器(Container)/3-1 啟動.md",
+                "file": "Docker/3.容器(Container)/3-2 守護態執行.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5110321044922,
-    "collapsed": true
+    "width": 244.5110321044922
   },
   "right": {
     "id": "b72d954661dd49cb",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3.容器(Container)/3-1 啟動.md",
+                "file": "Docker/3.容器(Container)/3-2 守護態執行.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3.容器(Container)/3-1 啟動.md",
+                "file": "Docker/3.容器(Container)/3-2 守護態執行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3.容器(Container)/3-1 啟動.md"
+                "file": "Docker/3.容器(Container)/3-2 守護態執行.md"
               }
             }
           },
@@ -201,8 +200,8 @@
   },
   "active": "77c5cf7ce3e3ca53",
   "lastOpenFiles": [
-    "Obsidian Plugin/Callout 模組.md",
     "Docker/3.容器(Container)/3-1 啟動.md",
+    "Obsidian Plugin/Callout 模組.md",
     "Docker/3.容器(Container)/3-2 守護態執行.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
