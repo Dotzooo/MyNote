@@ -30,31 +30,32 @@
         "dimension": 75.809199318569,
         "children": [
           {
-            "id": "30ebb1411b271f22",
+            "id": "c7de8ba24aabd1c2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/6.使用網路/6-2 容器互連.md",
+                "file": "Docker/指令.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "9be0cfb068b98d79",
+            "id": "2cc09605e6ea1f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md",
+                "file": "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md",
+                "file": "Docker/指令.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md",
+                "file": "Docker/指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md"
+                "file": "Docker/指令.md"
               }
             }
           },
@@ -216,8 +217,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9be0cfb068b98d79",
+  "active": "c7de8ba24aabd1c2",
   "lastOpenFiles": [
+    "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
+    "Docker/指令.md",
+    "Docker/Dockerignore.md",
+    "Docker/0. Docker.md",
+    "Docker/5.資料管理(Data Voulme)/5-2 Docker Volume.md",
+    "Docker/10.Dockerfile/10-1 建立鏡像(映像檔).md",
+    "Docker/10.Dockerfile/10-0 Dockerfile.md",
+    "Docker/11.底層實作/11-0 基本架構.md",
     "Obsidian Plugin/Callout 模組.md",
     "Docker/7.進階網路設定/7-0 快速設定命令.md",
     "Docker/6.使用網路/6-2 容器互連.md",
@@ -237,21 +246,13 @@
     "Docker/6.使用網路",
     "Docker/5.資料管理(Data Voulme)",
     "Docker/4.倉庫（Repository）/4-3 設定檔案.md",
-    "Docker/Docker.md",
     "Docker/4.倉庫（Repository）/4-1 Docker Hub.md",
     "Docker/4.倉庫（Repository）/4-0 倉庫命令.md",
     "Docker/3.容器(Container)/3-6 刪除.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
     "Docker/3.容器(Container)/3-4 進入容器.md",
-    "Docker/指令.md",
     "Docker/3.容器(Container)/3-3 終止.md",
-    "Docker/Dockerignore.md",
-    "Docker/3.容器(Container)/3-2 守護態執行.md",
-    "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
-    "Docker/未命名.md",
-    "Obsidian Plugin/Template/YAML_文章.md",
     "Obsidian Plugin/Template",
-    "Obsidian Plugin/Dataview.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/4.倉庫（Repository）",
     "Docker/3.容器(Container)",
