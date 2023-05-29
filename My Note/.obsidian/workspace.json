@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
+                "file": "Docker/6.使用網路/6-2 容器互連.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
+                "file": "Docker/6.使用網路/6-2 容器互連.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
+                "file": "Docker/6.使用網路/6-2 容器互連.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md"
+                "file": "Docker/6.使用網路/6-2 容器互連.md"
               }
             }
           },
@@ -205,13 +205,15 @@
   },
   "active": "30ebb1411b271f22",
   "lastOpenFiles": [
-    "Obsidian Plugin/Callout 模組.md",
+    "Docker/6.使用網路/6-1 外部存取容器.md",
+    "Docker/6.使用網路/6-2 容器互連.md",
+    "Docker/6.使用網路/6-0 網路命令.md",
     "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
+    "Obsidian Plugin/Callout 模組.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/5.資料管理(Data Voulme)/5-1 資料卷.md",
     "Docker/3.容器(Container)/3-1 啟動.md",
     "Docker/4.倉庫（Repository）/4-2 私有倉庫.md",
-    "Docker/6.使用網路/6-0 網路命令.md",
     "Docker/3.容器(Container)/3-5 匯出與匯入.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
@@ -238,8 +240,6 @@
     "Obsidian Plugin/Dataview.md",
     "Obsidian Plugin/Breadcrumb.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
-    "1-日誌/2023-05-26.md",
-    "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
     "Docker/4.倉庫（Repository）",
     "Docker/3.容器(Container)",
     "Screenshot 2023-05-24 at 11.45.36 AM.png"
