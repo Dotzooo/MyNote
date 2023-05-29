@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "2cc09605e6ea1f1e",
+            "id": "6736afe7e63cb0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,8 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22681caac7c51664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/6.使用網路/6-2 容器互連.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b35cf40a3f48181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/6.使用網路/6-1 建立虛擬網路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/指令.md",
+                "file": "Docker/6.使用網路/6-1 建立虛擬網路.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/指令.md",
+                "file": "Docker/6.使用網路/6-1 建立虛擬網路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/指令.md"
+                "file": "Docker/6.使用網路/6-1 建立虛擬網路.md"
               }
             }
           },
@@ -217,21 +242,26 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c7de8ba24aabd1c2",
+  "active": "8b35cf40a3f48181",
   "lastOpenFiles": [
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
+    "Docker/6.使用網路/6-1 建立虛擬網路.md",
     "Docker/指令.md",
-    "Docker/Dockerignore.md",
+    "Docker/6.使用網路/6-2 容器互連.md",
+    "Docker/6.使用網路/6-0 網路命令.md",
     "Docker/0. Docker.md",
+    "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
+    "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
+    "Docker/4.倉庫（Repository）/4-1 Docker Hub.md",
+    "Docker/鏡像構建.md",
+    "Docker/4.倉庫（Repository）/4-0 倉庫命令.md",
+    "Docker/Dockerignore.md",
     "Docker/5.資料管理(Data Voulme)/5-2 Docker Volume.md",
     "Docker/10.Dockerfile/10-1 建立鏡像(映像檔).md",
     "Docker/10.Dockerfile/10-0 Dockerfile.md",
     "Docker/11.底層實作/11-0 基本架構.md",
     "Obsidian Plugin/Callout 模組.md",
     "Docker/7.進階網路設定/7-0 快速設定命令.md",
-    "Docker/6.使用網路/6-2 容器互連.md",
-    "Docker/6.使用網路/6-1 外部存取容器.md",
-    "Docker/6.使用網路/6-0 網路命令.md",
     "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/5.資料管理(Data Voulme)/5-1 資料卷.md",
@@ -246,12 +276,7 @@
     "Docker/6.使用網路",
     "Docker/5.資料管理(Data Voulme)",
     "Docker/4.倉庫（Repository）/4-3 設定檔案.md",
-    "Docker/4.倉庫（Repository）/4-1 Docker Hub.md",
-    "Docker/4.倉庫（Repository）/4-0 倉庫命令.md",
     "Docker/3.容器(Container)/3-6 刪除.md",
-    "Screenshot 2023-05-26 at 11.20.34 AM.png.md",
-    "Docker/3.容器(Container)/3-4 進入容器.md",
-    "Docker/3.容器(Container)/3-3 終止.md",
     "Obsidian Plugin/Template",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/4.倉庫（Repository）",
