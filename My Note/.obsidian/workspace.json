@@ -40,8 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9be0cfb068b98d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/6.使用網路/6-2 容器互連.md",
+                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/6.使用網路/6-2 容器互連.md",
+                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/6.使用網路/6-2 容器互連.md"
+                "file": "Docker/10.Dockerfile/10-0 Dockerfile.md"
               }
             }
           },
@@ -203,13 +216,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "30ebb1411b271f22",
+  "active": "9be0cfb068b98d79",
   "lastOpenFiles": [
-    "Docker/6.使用網路/6-1 外部存取容器.md",
+    "Obsidian Plugin/Callout 模組.md",
+    "Docker/7.進階網路設定/7-0 快速設定命令.md",
     "Docker/6.使用網路/6-2 容器互連.md",
+    "Docker/6.使用網路/6-1 外部存取容器.md",
     "Docker/6.使用網路/6-0 網路命令.md",
     "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
-    "Obsidian Plugin/Callout 模組.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "Docker/5.資料管理(Data Voulme)/5-1 資料卷.md",
     "Docker/3.容器(Container)/3-1 啟動.md",
@@ -238,7 +252,6 @@
     "Obsidian Plugin/Template/YAML_文章.md",
     "Obsidian Plugin/Template",
     "Obsidian Plugin/Dataview.md",
-    "Obsidian Plugin/Breadcrumb.md",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/4.倉庫（Repository）",
     "Docker/3.容器(Container)",
