@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16842737ea909355",
+        "id": "0a494544efc1d01a",
         "type": "tabs",
         "children": [
           {
-            "id": "b00c9f613dff700d",
+            "id": "a9cf8c47ae00ab22",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Plugin/Callout 模組.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugin/Callout 模組.md",
+                "file": "Docker/0. Docker.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugin/Callout 模組.md",
+                "file": "Docker/0. Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugin/Callout 模組.md"
+                "file": "Docker/0. Docker.md"
               }
             }
           },
@@ -183,11 +177,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b00c9f613dff700d",
+  "active": "959bcbc826ec8ffe",
   "lastOpenFiles": [
-    "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/0. Dockerignore.md",
     "Docker/0. Docker.md",
+    "Obsidian Plugin/Callout 模組.md",
+    "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/指令.md",
     "Docker/鏡像構建.md",
     "Docker/10.Dockerfile/10-0 Dockerfile.md",
@@ -202,7 +197,6 @@
     "Docker/5.資料管理(Data Voulme)/5-2 Docker Volume.md",
     "Docker/10.Dockerfile/10-1 建立鏡像(映像檔).md",
     "Docker/11.底層實作/11-0 基本架構.md",
-    "Obsidian Plugin/Callout 模組.md",
     "Docker/7.進階網路設定/7-0 快速設定命令.md",
     "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
