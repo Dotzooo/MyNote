@@ -3,5 +3,5 @@
   "livePreview": true,
   "legacyEditor": false,
   "showInlineTitle": false,
-  "newFileLocation": "folder"
+  "newFileLocation": "current"
 }
