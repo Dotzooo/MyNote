@@ -11,8 +11,12 @@
             "id": "a9cf8c47ae00ab22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3-快速筆記/2023-05-17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/0. Docker.md",
+                "file": "3-快速筆記/2023-05-17.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/0. Docker.md",
+                "file": "3-快速筆記/2023-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/0. Docker.md"
+                "file": "3-快速筆記/2023-05-17.md"
               }
             }
           },
@@ -179,8 +183,21 @@
   },
   "active": "959bcbc826ec8ffe",
   "lastOpenFiles": [
-    "Docker/0. Dockerignore.md",
+    "3-快速筆記/2023-05-09.md",
+    "3-快速筆記/2023-05-16.md",
+    "3-快速筆記/2023-05-17.md",
+    "3-快速筆記/2023-05-03.md",
+    "3-快速筆記/2023-05-02.md",
+    "3-快速筆記/2023-04-27.md",
+    "3-快速筆記/2023-04-25.md",
+    "3-快速筆記/2023-04-24.md",
+    "1-日誌/2023-04-24.md",
+    "1-日誌/2023-04-20.md",
+    "1-日誌/2023-04-19.md",
+    "1-日誌/2023-05-25.md",
+    "1-日誌/2023-05-26.md",
     "Docker/0. Docker.md",
+    "Docker/0. Dockerignore.md",
     "Obsidian Plugin/Callout 模組.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/指令.md",
@@ -192,18 +209,6 @@
     "Docker/6.使用網路/6-1 建立虛擬網路.md",
     "Docker/6.使用網路/6-2 容器互連.md",
     "Docker/6.使用網路/6-0 網路命令.md",
-    "Docker/4.倉庫（Repository）/4-1 Docker Hub.md",
-    "Docker/4.倉庫（Repository）/4-0 倉庫命令.md",
-    "Docker/5.資料管理(Data Voulme)/5-2 Docker Volume.md",
-    "Docker/10.Dockerfile/10-1 建立鏡像(映像檔).md",
-    "Docker/11.底層實作/11-0 基本架構.md",
-    "Docker/7.進階網路設定/7-0 快速設定命令.md",
-    "Docker/5.資料管理(Data Voulme)/5-0 資料卷命令.md",
-    "Docker/3.容器(Container)/3-0 容器命令.md",
-    "Docker/5.資料管理(Data Voulme)/5-1 資料卷.md",
-    "Docker/3.容器(Container)/3-1 啟動.md",
-    "Docker/4.倉庫（Repository）/4-2 私有倉庫.md",
-    "Docker/3.容器(Container)/3-5 匯出與匯入.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
@@ -211,7 +216,6 @@
     "Docker/7.進階網路設定",
     "Docker/6.使用網路",
     "Docker/5.資料管理(Data Voulme)",
-    "Docker/4.倉庫（Repository）/4-3 設定檔案.md",
     "Obsidian Plugin/Template",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/4.倉庫（Repository）",
