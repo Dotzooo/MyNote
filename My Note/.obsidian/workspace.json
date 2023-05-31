@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d8efa74fef22425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999.LeetCode/0. 目標及方向.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md",
+                "file": "999.LeetCode/0. 目標及方向.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md",
+                "file": "999.LeetCode/0. 目標及方向.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md"
+                "file": "999.LeetCode/0. 目標及方向.md"
               }
             }
           },
@@ -181,11 +194,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "2d8efa74fef22425",
   "lastOpenFiles": [
+    "3-快速筆記/2023-05-17.md",
+    "999.LeetCode/0. 目標及方向.md",
+    "999.LeetCode",
     "3-快速筆記/2023-05-09.md",
     "3-快速筆記/2023-05-16.md",
-    "3-快速筆記/2023-05-17.md",
     "3-快速筆記/2023-05-03.md",
     "3-快速筆記/2023-05-02.md",
     "3-快速筆記/2023-04-27.md",
@@ -208,7 +223,6 @@
     "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
     "Docker/6.使用網路/6-1 建立虛擬網路.md",
     "Docker/6.使用網路/6-2 容器互連.md",
-    "Docker/6.使用網路/6-0 網路命令.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
@@ -219,7 +233,6 @@
     "Obsidian Plugin/Template",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
     "Docker/4.倉庫（Repository）",
-    "Docker/3.容器(Container)",
     "Screenshot 2023-05-24 at 11.45.36 AM.png"
   ]
 }
