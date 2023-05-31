@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cd98b8a276139c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999.LeetCode/0. 目標及方向.md",
+                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999.LeetCode/0. 目標及方向.md",
+                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999.LeetCode/0. 目標及方向.md"
+                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md"
               }
             }
           },
@@ -194,10 +206,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "2d8efa74fef22425",
+  "active": "8cd98b8a276139c7",
   "lastOpenFiles": [
-    "3-快速筆記/2023-05-17.md",
     "999.LeetCode/0. 目標及方向.md",
+    "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+    "999.LeetCode/Dynamic Programming",
+    "3-快速筆記/2023-05-17.md",
     "999.LeetCode",
     "3-快速筆記/2023-05-09.md",
     "3-快速筆記/2023-05-16.md",
@@ -222,7 +236,6 @@
     "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
     "Docker/6.使用網路/6-1 建立虛擬網路.md",
-    "Docker/6.使用網路/6-2 容器互連.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
@@ -232,7 +245,6 @@
     "Docker/5.資料管理(Data Voulme)",
     "Obsidian Plugin/Template",
     "Screenshot 2023-05-26 at 11.20.34 AM.png",
-    "Docker/4.倉庫（Repository）",
     "Screenshot 2023-05-24 at 11.45.36 AM.png"
   ]
 }
