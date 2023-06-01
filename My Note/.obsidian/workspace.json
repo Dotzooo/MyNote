@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "e326e984cc9197de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999.LeetCode/1. 模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d8efa74fef22425",
             "type": "leaf",
             "state": {
@@ -34,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ed1ad5fd4236148f",
@@ -52,8 +65,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc9b76229a7324fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md",
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md",
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md"
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md"
               }
             }
           },
@@ -215,10 +241,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a756024d5f1a7a6a",
+  "active": "dc9b76229a7324fc",
   "lastOpenFiles": [
-    "Obsidian Plugin/Callout 模組.md",
+    "999.LeetCode/1. 模板.md",
+    "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
     "999.LeetCode/Dynamic Programming/322. Coin Change.md",
+    "Obsidian Plugin/Callout 模組.md",
     "999.LeetCode/0. 目標及方向.md",
     "().md",
     "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
@@ -243,8 +271,6 @@
     "Docker/指令.md",
     "Docker/鏡像構建.md",
     "Docker/10.Dockerfile/10-0 Dockerfile.md",
-    "Docker/2.鏡像 (映像檔)/2-3 建立鏡像(映像檔).md",
-    "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
