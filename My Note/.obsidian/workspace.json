@@ -55,27 +55,18 @@
         "dimension": 69.12928759894459,
         "children": [
           {
-            "id": "a756024d5f1a7a6a",
+            "id": "9fd84f27c4355ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md",
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b76a45a3cbcb97f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md"
+              }
             }
           },
           {
@@ -233,25 +228,26 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b76a45a3cbcb97f4",
+  "active": "9fd84f27c4355ded",
   "lastOpenFiles": [
+    "3-快速筆記/2023-05-17.md",
+    "3-快速筆記/2023-05-16.md",
+    "3-快速筆記/2023-04-27.md",
+    "3-快速筆記/2023-05-09.md",
+    "3-快速筆記/2023-04-25.md",
+    "3-快速筆記/2023-04-24.md",
+    "3-快速筆記/Array(m) 和 new Array(m) 的差別.md",
+    "().md",
     "999.LeetCode/Dynamic Programming/322. Coin Change.md",
     "999.LeetCode/0. 目標及方向.md",
     "999.LeetCode/Dynamic Programming/416. Partition Equal Subset Sum.md",
     "999.LeetCode/1. 模板.md",
     "Obsidian Plugin/Callout 模組.md",
-    "().md",
     "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
     "999.LeetCode/Dynamic Programming",
-    "3-快速筆記/2023-05-17.md",
     "999.LeetCode",
-    "3-快速筆記/2023-05-09.md",
-    "3-快速筆記/2023-05-16.md",
     "3-快速筆記/2023-05-03.md",
     "3-快速筆記/2023-05-02.md",
-    "3-快速筆記/2023-04-27.md",
-    "3-快速筆記/2023-04-25.md",
-    "3-快速筆記/2023-04-24.md",
     "1-日誌/2023-04-24.md",
     "1-日誌/2023-04-20.md",
     "1-日誌/2023-04-19.md",
@@ -262,7 +258,6 @@
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/指令.md",
     "Docker/鏡像構建.md",
-    "Docker/10.Dockerfile/10-0 Dockerfile.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
