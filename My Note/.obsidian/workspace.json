@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+                "file": "999.LeetCode/0. 目標及方向.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69411fc69969fd14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md"
+                "file": "999.LeetCode/Dynamic Programming/322. Coin Change.md"
               }
             }
           },
@@ -206,10 +218,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8cd98b8a276139c7",
+  "active": "69411fc69969fd14",
   "lastOpenFiles": [
-    "999.LeetCode/0. 目標及方向.md",
     "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+    "999.LeetCode/Dynamic Programming/322. Coin Change.md",
+    "999.LeetCode/0. 目標及方向.md",
     "999.LeetCode/Dynamic Programming",
     "3-快速筆記/2023-05-17.md",
     "999.LeetCode",
@@ -235,7 +248,6 @@
     "Docker/2.鏡像 (映像檔)/2-3 建立鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
-    "Docker/6.使用網路/6-1 建立虛擬網路.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
