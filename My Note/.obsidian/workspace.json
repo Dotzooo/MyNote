@@ -6,17 +6,20 @@
       {
         "id": "0a494544efc1d01a",
         "type": "tabs",
+        "dimension": 30.87071240105541,
         "children": [
           {
             "id": "a9cf8c47ae00ab22",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-快速筆記/2023-05-17.md",
+                "file": "Obsidian Plugin/Callout 模組.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -30,21 +33,16 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ed1ad5fd4236148f",
+        "type": "tabs",
+        "dimension": 69.12928759894459,
+        "children": [
           {
-            "id": "8cd98b8a276139c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999.LeetCode/0. 目標及方向.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69411fc69969fd14",
+            "id": "a756024d5f1a7a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +215,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "69411fc69969fd14",
+  "active": "a756024d5f1a7a6a",
   "lastOpenFiles": [
-    "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
+    "Obsidian Plugin/Callout 模組.md",
     "999.LeetCode/Dynamic Programming/322. Coin Change.md",
     "999.LeetCode/0. 目標及方向.md",
+    "().md",
+    "999.LeetCode/Dynamic Programming/53. Maximum Subarray.md",
     "999.LeetCode/Dynamic Programming",
     "3-快速筆記/2023-05-17.md",
     "999.LeetCode",
@@ -240,14 +239,12 @@
     "1-日誌/2023-05-26.md",
     "Docker/0. Docker.md",
     "Docker/0. Dockerignore.md",
-    "Obsidian Plugin/Callout 模組.md",
     "Docker/2.鏡像 (映像檔)/2-0 鏡像命令.md",
     "Docker/指令.md",
     "Docker/鏡像構建.md",
     "Docker/10.Dockerfile/10-0 Dockerfile.md",
     "Docker/2.鏡像 (映像檔)/2-3 建立鏡像(映像檔).md",
     "Docker/2.鏡像 (映像檔)/2-2 列出鏡像(映像檔).md",
-    "Docker/2.鏡像 (映像檔)/2-1 取得鏡像(映像檔).md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
