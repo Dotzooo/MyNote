@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md",
+                "file": "999.LeetCode/1. 模板.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md",
+                "file": "999.LeetCode/1. 模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md"
+                "file": "999.LeetCode/1. 模板.md"
               }
             }
           },
@@ -241,7 +240,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1b8ebf5918f7521c",
+  "active": "e326e984cc9197de",
   "lastOpenFiles": [
     "999.LeetCode/Dynamic Programming/198. House Robber.md",
     "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md",
