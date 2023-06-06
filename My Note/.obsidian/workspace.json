@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/筆記.md",
+                "file": "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/筆記.md",
+                "file": "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999.LeetCode/Dynamic Programming/筆記.md"
+                "file": "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md"
               }
             }
           },
@@ -228,10 +228,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4a10a1bdb70dd96e",
+  "active": "1b8ebf5918f7521c",
   "lastOpenFiles": [
-    "999.LeetCode/Dynamic Programming/198. House Robber.md",
     "999.LeetCode/Dynamic Programming/筆記.md",
+    "999.LeetCode/Dynamic Programming/198. House Robber.md",
     "Screenshot 2023-06-06 at 10.12.34 AM.png",
     "999.LeetCode/0. 目標及方向.md",
     "999.LeetCode/1. 模板.md",
