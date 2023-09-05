@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "864f576281ec5f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-日誌/2023-07-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/面試問題/What is context?.md",
+                "file": "1-日誌/2023-07-18.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/面試問題/What is context?.md",
+                "file": "1-日誌/2023-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/面試問題/What is context?.md"
+                "file": "1-日誌/2023-07-18.md"
               }
             }
           },
@@ -236,8 +248,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5999a2f7cc7633df",
+  "active": "864f576281ec5f8c",
   "lastOpenFiles": [
+    "1-日誌/2023-07-18.md",
     "React/面試問題/What is context?.md",
     "React/面試問題",
     "999.LeetCode/Dynamic Programming/筆記.md",
@@ -267,7 +280,6 @@
     "1-日誌/2023-04-20.md",
     "1-日誌/2023-04-19.md",
     "1-日誌/2023-05-25.md",
-    "1-日誌/2023-05-26.md",
     "Docker/11.底層實作",
     "Docker/10.Dockerfile",
     "Docker/9.安全",
