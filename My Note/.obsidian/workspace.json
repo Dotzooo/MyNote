@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
+                "file": "Docker/3.容器(Container)/3-6 刪除.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
+                "file": "Docker/3.容器(Container)/3-6 刪除.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md",
+                "file": "Docker/3.容器(Container)/3-6 刪除.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3.容器(Container)/3-0 容器命令.md"
+                "file": "Docker/3.容器(Container)/3-6 刪除.md"
               }
             }
           },
@@ -181,8 +181,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "959bcbc826ec8ffe",
+  "active": "864f576281ec5f8c",
   "lastOpenFiles": [
+    "Docker/3.容器(Container)/3-5 匯出與匯入.md",
+    "Docker/3.容器(Container)/3-4 進入容器.md",
+    "Docker/3.容器(Container)/3-3 終止.md",
+    "Docker/3.容器(Container)/3-2 守護態執行.md",
     "Docker/3.容器(Container)/3-1 啟動.md",
     "Docker/3.容器(Container)/3-0 容器命令.md",
     "1-日誌/2023-09-07.md",
@@ -206,11 +210,7 @@
     "React/面試問題/What is context?.md",
     "React/面試問題",
     "999.LeetCode/Dynamic Programming/筆記.md",
-    "999.LeetCode/Dynamic Programming/300. Longest Increasing Subsequence.md",
-    "999.LeetCode/Dynamic Programming/152. Maximum Product Subarray.md",
-    "999.LeetCode/Dynamic Programming/198. House Robber.md",
     "Screenshot 2023-06-06 at 10.12.34 AM.png",
-    "999.LeetCode/0. 目標及方向.md",
     "999.LeetCode/Dynamic Programming",
     "999.LeetCode",
     "Docker/11.底層實作",
